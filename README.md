@@ -321,6 +321,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[Back to Top](#vercel-publish-for-obsidian)**
 
-Made by Ian
+Made by Ian 
 
 </div>
